@@ -8,7 +8,7 @@ function changeColor() {
     // If the current color is blue, change it to red; otherwise, change it to blue
     if (currentColor === 'blue' || currentColor === '') {
       block.style.backgroundColor = 'red';
-        // 1s_h3??????}
+        // _1s_h3??????}
     } else {
       block.style.backgroundColor = 'blue';
     }
